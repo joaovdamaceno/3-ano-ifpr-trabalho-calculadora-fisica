@@ -1,5 +1,5 @@
-# Trabalho de Física Sobre Cinematica
+# Trabalho de Física Sobre Cinemática
 
-Trabalho sobre cinematica feito para integrar os conceitos da matéria de física com programação.
+Trabalho sobre cinemática feito para integrar os conceitos da matéria de física com programação.
 
 <img src="./README_png.gif"/>
